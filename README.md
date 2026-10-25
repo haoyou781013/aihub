@@ -1,6 +1,6 @@
 # AIHub
 
-[![Build Check](https://github.com/haoyou781013/WorkBuddy2API-Android/actions/workflows/build.yml/badge.svg)](https://github.com/haoyou781013/WorkBuddy2API-Android/actions/workflows/build.yml)
+[![Build Check](https://github.com/haoyou781013/aihub/actions/workflows/build.yml/badge.svg)](https://github.com/haoyou781013/aihub/actions/workflows/build.yml)
 
 > 把腾讯 **WorkBuddy / CodeBuddy** 的积分额度，变成手机本地一个标准的 **OpenAI / Anthropic 兼容 API**。
 > 纯原生 Android 实现（Kotlin），**无需 Python、无需 Docker、无需电脑**——装到手机上就能跑。
@@ -9,7 +9,7 @@
 
 | 平台 | 地址 | 用途 |
 |---|---|---|
-| GitHub | https://github.com/haoyou781013/WorkBuddy2API-Android | 主仓库 · 发布 Release |
+| GitHub | https://github.com/haoyou781013/aihub | 主仓库 · 发布 Release |
 | Gitee | https://gitee.com/haoyou781/aihub | 镜像（不含 Release 附件） |
 
 ## 来源与授权
@@ -43,7 +43,7 @@
 
 ## 直接下载
 
-**👉 [最新正式版](https://github.com/haoyou781013/WorkBuddy2API-Android/releases/latest)**
+**👉 [最新正式版](https://github.com/haoyou781013/aihub/releases/latest)**
 
 ### 测试版与正式版
 
